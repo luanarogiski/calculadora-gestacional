@@ -1,0 +1,53 @@
+body {
+   width: 100%;
+   height: 100%;
+   background-color: #CFA0F2; 
+}
+
+#form {
+    margin: 200px 500px 200px 500px;
+    text-align: center;
+    font-family: inherit;
+    padding-top: 0;
+    padding-bottom: 20px;
+    background-color:#1D86CC;
+    color: yellowgreen;
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: 32px;
+    color: yellowgreen;
+    padding-top: 10px;
+}
+
+.container {
+    font-size: 16px;
+}
+
+#dumUS {
+    padding: 4px 10px 4px 10px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    border: none;
+}
+
+#dataAtual {
+    padding: 4px 10px 4px 10px;
+    margin-left: 7px;
+    border-radius: 3px;
+    border: none;
+}
+
+#btnCalcular {
+    padding: 6px 20px 6px 20px;
+    margin-bottom: 20px;
+    background-color: yellowgreen;
+    color: brown;
+    border: none;
+    border-radius: 3px;
+}
+
+#resultado {
+    color: yellowgreen;
+}
